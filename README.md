@@ -1,5 +1,7 @@
-# Hello Friend 🙋🏻‍♂️ <br> I'm [Ankit Gupta](http://ankitsumitg.github.io/) 🤠
-
+<h2 align="center" id="hello-friend-i-m-ankit-aka-ankitsumitg-saphine-linkedin-">Hello Friend 🙋🏻‍♂️, I&#39;m Ankit - aka
+            <a href="https://ankitsumitg.github.io/">ankitsumitg | saphine</a>
+            🤠</h2>
+            
 ---
 ```javascript
 /**
