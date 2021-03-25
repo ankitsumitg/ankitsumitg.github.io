@@ -33,7 +33,8 @@ myRepos.forEach((repo) => {
 
 ---
 <p align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="powered-by-coffee" onerror="this.onerror=null; this.src='https://img.shields.io/badge/POWERED%20BY-COFFEE%20%20%20%E2%98%95-yellow?style=for-the-badge'"/>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love" onerror="this.onerror=null; this.src='https://img.shields.io/badge/BUILT%20WITH-LOVE%20%20%20%F0%9F%92%97-red?style=for-the-badge'"/>
 </p>
 
 ---
