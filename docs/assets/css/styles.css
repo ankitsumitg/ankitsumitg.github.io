@@ -1,6 +1,7 @@
 body {
     font-family: 'Lato', sans-serif;
     font-size: 1.125rem;
+    transition: 0.5s;
     display: flex;
     flex-direction: column;
     max-width: 50rem;
@@ -45,6 +46,7 @@ hr {
 .dark,
 .dark * {
     background-color: #222;
+    transition: 0.5s;
     color: #e6e6e6;
     border-color: #e6e6e6;
 }
