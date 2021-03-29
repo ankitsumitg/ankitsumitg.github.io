@@ -4,7 +4,7 @@ body {
     transition: 0.5s;
     display: flex;
     flex-direction: column;
-    max-width: 50rem;
+    max-width: 60rem;
     margin: 0 auto;
     padding: 0 0.9375rem;   
 }
