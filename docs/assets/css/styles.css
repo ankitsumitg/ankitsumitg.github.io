@@ -27,7 +27,7 @@ hr {
     width: 96%;               
     background-color: black;
     height: 1px;
-  }
+}
 .switch {
     align-self: flex-end;
     margin: 0.9375rem;
@@ -37,7 +37,7 @@ hr {
     cursor: pointer;
     border: 1px solid #555;
     border-radius: 1.25rem;
-    width: 3.125rem;
+    width: 2rem;
     text-align: center;
     font-size: 1rem;
     padding: 0.1875rem;
