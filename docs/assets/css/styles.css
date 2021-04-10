@@ -21,12 +21,12 @@ img {
     align-self: center;
 }
 hr {
-    border: 10;
-    clear:both;
-    display:block;
+    border: 1px;
+    /*clear:both;
+    display:block;*/
     width: 96%;               
     background-color: black;
-    height: 1px;
+    height: 0.1px;
 }
 .switch {
     align-self: flex-end;
@@ -49,4 +49,7 @@ hr {
     transition: 0.5s;
     color: #e6e6e6;
     border-color: #e6e6e6;
+}
+.dark hr{
+    background-color: #e6e6e6;
 }
