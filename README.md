@@ -1,5 +1,5 @@
 <h2 align="center" id="hello-friend-i-m-ankit-aka-ankitsumitg-saphine-linkedin-">Hello Friend 🙋🏻‍♂️, I&#39;m Ankit - aka
-            <a href="https://ankitsumitg.github.io/">ankitsumitg | saphine</a>
+            <a href="https://ankitg.ml/">ankitsumitg | saphine</a>
             🤠</h2>
             
 ---
